@@ -24,6 +24,7 @@ Minute bugs fixed in this version.
 
 
 Below are the screenshots of the test cases:
+![0](https://user-images.githubusercontent.com/32582640/76380743-fac14300-6329-11ea-9bbb-84f28ae950bb.png)
 ![1](https://user-images.githubusercontent.com/32582640/76380491-49baa880-6329-11ea-969b-6dc83d5ad391.png)
 ![2](https://user-images.githubusercontent.com/32582640/76380492-4b846c00-6329-11ea-931f-a6bdaba75a45.png)
 ![3](https://user-images.githubusercontent.com/32582640/76380493-4cb59900-6329-11ea-9727-f82257355a6d.png)
